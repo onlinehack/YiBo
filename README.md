@@ -9,6 +9,9 @@ Apache Licence！
 -----YiBo  yibo的android源代码
 -----YiBoLibrary yibo的底层库，包括各平台封装
 
+捐赠地址
+=====
+捐赠地址:http://item.taobao.com/item.htm?id=23181704824 感谢您对社区的支持！
 
 社区版本
 =====
